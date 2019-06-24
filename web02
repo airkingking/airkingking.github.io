@@ -1,0 +1,15 @@
+# airkingking.github.io
+zhenghao
+<!doctype html>
+<html>
+<head>
+	<title>1</title>
+	<meta charset="utf-8">
+	<script type="text/javascript" src="scripts/main.js" async="v"></script>
+</head>
+<body>
+	<button>切换用户</button>
+	<h1>hello WORLD</h1>
+	<img src="images/lebron1.jpg" height="200" align="center">
+</body>
+</html>
